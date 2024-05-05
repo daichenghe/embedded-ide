@@ -11,6 +11,7 @@
 #include <QProgressDialog>
 #include <QNetworkRequest>
 #include <QMessageBox>
+#include <QButtonGroup>
 #include <QNetworkAccessManager>
 #include <QNetworkReply>
 #include <QJsonDocument>

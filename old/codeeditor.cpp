@@ -77,7 +77,7 @@
 #include <QtXml/qdom.h>
 
 #include <gdbdebugger.h>
-
+#include <cmath>
 #undef CLANG_DEBUG
 
 CodeEditor::CodeEditor(QWidget *parent) :
